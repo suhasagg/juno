@@ -92,6 +92,7 @@ In the future we plan to add a new set of features like:
 - Complete support for v0.2.0 of the [RPC spec](https://github.com/starkware-libs/starknet-specs/releases/tag/v0.1.0)
 - Faster sync
 - Enhanced metrics
+- Sync with binance, tron
 - And more! Stay tuned! 🚀
 
 ## 📜 Documentation
